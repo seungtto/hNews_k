@@ -49,7 +49,7 @@ wfLoadSkin( 'Dgraph' );
 
 ## 편집 및 이용
 
-위키 이용에 관련된 참고 자료는 다음과 같다.
+위키 편집 및 이용에 도움이 되는 자료는 다음과 같다.
  * [위키 문법](https://ko.wikipedia.org/wiki/%EC%9C%84%ED%82%A4%EB%B0%B1%EA%B3%BC:%EC%9C%84%ED%82%A4_%EB%AC%B8%EB%B2%95)
  * [짧은 URL 적용](http://zetawiki.com/wiki/%EB%AF%B8%EB%94%94%EC%96%B4%EC%9C%84%ED%82%A4_%EA%B0%84%ED%8E%B8URL_%EC%A0%81%EC%9A%A9)
  * [위키 스킨 변경](https://www.mediawiki.org/wiki/Category:All_skins)
